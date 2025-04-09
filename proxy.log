@@ -1,0 +1,62 @@
+[2025-04-09T21:16:53.476Z] WebSocket прокси запущен на порту 8081
+[2025-04-09T21:18:49.754Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:18:49.756Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:18:49.778Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:18:49.779Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:18:55.671Z] Получено сообщение от клиента ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:18:55.672Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:07.092Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: sadasdasdsadasdasdsadasdasdsadsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasd
+[2025-04-09T21:19:07.093Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: sadasdasdsadasdasdsadasdasdsadsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdssadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasd
+[2025-04-09T21:19:26.624Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:26.625Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:28.763Z] WebSocket соединение закрыто для ::ffff:194.87.186.19
+[2025-04-09T21:19:28.764Z] TCP соединение закрыто для ::ffff:194.87.186.19
+[2025-04-09T21:19:28.889Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:19:28.890Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:19:35.048Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:35.048Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.009Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.010Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.644Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.645Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.857Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:36.857Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.042Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.043Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.381Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.382Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.569Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}{"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.569Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}{"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.818Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:37.819Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:38.081Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:38.081Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:47.468Z] WebSocket соединение закрыто для ::ffff:194.87.186.19
+[2025-04-09T21:19:47.469Z] TCP соединение закрыто для ::ffff:194.87.186.19
+[2025-04-09T21:19:47.594Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:19:47.595Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:19:52.124Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:19:52.125Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:00.534Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:20:00.535Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:20:07.264Z] Получено сообщение от клиента ::ffff:194.87.186.19: {"username":"Олег","text":"Абрек","timestamp":"2025-04-09T21:20:08.808Z"}
+[2025-04-09T21:20:07.265Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"Олег","text":"Абрек","timestamp":"2025-04-09T21:20:08.808Z"}
+[2025-04-09T21:20:07.265Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"Олег","text":"Абрек","timestamp":"2025-04-09T21:20:08.808Z"}
+[2025-04-09T21:20:12.169Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:12.170Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:12.170Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:14.208Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:14.208Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:14.209Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:16.860Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:16.860Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:16.860Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"sadas","text":"asdasdadsa","timestamp":"2025-04-09T21:18:57.770Z"}
+[2025-04-09T21:20:22.420Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:20:22.420Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:20:22.439Z] Новое WebSocket подключение от ::ffff:194.87.186.19
+[2025-04-09T21:20:22.440Z] Подключено к TCP серверу от ::ffff:194.87.186.19
+[2025-04-09T21:20:28.538Z] Получено сообщение от клиента ::ffff:194.87.186.19: {"username":"11221","text":"456465","timestamp":"2025-04-09T21:20:30.637Z"}
+[2025-04-09T21:20:28.539Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"11221","text":"456465","timestamp":"2025-04-09T21:20:30.637Z"}
+[2025-04-09T21:20:28.539Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"11221","text":"456465","timestamp":"2025-04-09T21:20:30.637Z"}
+[2025-04-09T21:20:28.540Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"11221","text":"456465","timestamp":"2025-04-09T21:20:30.637Z"}
+[2025-04-09T21:20:28.540Z] Получены данные от TCP сервера для ::ffff:194.87.186.19: {"username":"11221","text":"456465","timestamp":"2025-04-09T21:20:30.637Z"}
